@@ -10,8 +10,8 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 - [Demo](#demo)
 - [Supported Websites](#supported-websites)
 - [Setting Up](#setting-up)
-  - [For Windows](#Windows)
-  - [For Ubuntu](#Ubuntu)
+  - [Windows](#Windows)
+  - [Ubuntu](#Ubuntu)
 - [Usage](#usage)
   -  [Windows](#Windows)
   -  [Ubuntu](#Ubuntu)
@@ -19,10 +19,10 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 
 ## Demo
-
+will be added
 ![Shortcuts Demo](demo.gif)
 
-> [**View Full Demo Video**](demo_video.mp4)
+ > [**View Full Demo Video**](demo_video.mp4)
 
 
 ## Supported Websites
@@ -33,6 +33,7 @@ The repository supports the following websites for instant searches; however, an
 - **Dictionary**: Look up the selected word in google translate, Longman, and mnemonic dictionaries.
 - **YouTube**: Find videos related to the selected text on YouTube.
 - **Google Scholar**: Search a name on Google Scholar profiles.
+
 
 ## Setting Up
 
@@ -53,7 +54,7 @@ git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
 
 ### Ubuntu
 
-1. Open terminal and go to `/tmp` directory by the below command:
+1. Open terminal and navigate to `/tmp` directory using the below command:
   ```php
 cd /tmp
 ```
@@ -61,15 +62,15 @@ cd /tmp
   ```php
 git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
 ```
-3. Copy files in the *shortcuts for ubuntu* folder to `/usr/local/bin` directory:
+3. Copy files in the *shortcuts_for_ubuntu* folder to `/usr/local/bin` directory:
   ```php
 cp -r /tmp/Shortcuts_for_ubuntu /usr/local/bin
 ```
-4. Give permission to files in `Shortcuts_for_ubuntu`:
+4. Grant permission to files in `Shortcuts_for_ubuntu`:
 ```php
 sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu
 ```
-5. install `xclip` package by running the below command in the terminal:
+5. install the `xclip` package by running the below command in the terminal:
 ```php
 sudo apt-get install xclip
 ```
@@ -78,11 +79,14 @@ sudo apt-get install xclip
 8. You should repeat this step for all files in the *Shortcuts_for_ubuntu* directory. Here, we do it for *search-google.sh* file
 
    8.1. Click the *Add Shortcut* button if no custom shortcut is set yet. Otherwise, click the *+* button. The *Add Custom Shortcut* window
-   will appear.
+   will appear like the below image
 
-   8.2 Type a Name to identify the shortcut `search_google`. (for each file, you should change the name)
+   ![Screenshot from 2022-07-24 19-14-28](https://github.com/masoudrahimi39/SpeedyShortcuts/assets/65596290/cf8a8e84-818a-424e-943c-ca3d5931ed3c)
 
-   8.3 Type the below Command to run an application
+
+   8.2 Type a Name to identify the shortcut like `search_google`. (you should change the name for each files)
+
+   8.3 Type the below Command to run an application (you should replace `search_google.sh` with the other file)
      ```php
     sh /usr/local/bin/Shortcuts_for_ubuntu/search_google.sh
     ```
