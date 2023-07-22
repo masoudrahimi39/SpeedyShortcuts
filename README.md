@@ -37,13 +37,16 @@ The repository supports the following websites for instant searches; however, an
 ### For Windows
 
 1. Download AutoHotKey v1.1 from its [website](https://www.autohotkey.com/) and install it
+
 2. Clone this repo or download it manually
    ```php
 git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
    ```
-4. Open the startup folder by pressing the Windows logo key + R, type `shell:startup`, then select OK
-5. Copy all files in the Shortcuts_for_windows and paste them into the startup folder (by putting them in the startup folder, you don't need to run the files every time you start your system).
-6. Select them and run them.
+3. Open the startup folder by pressing the Windows logo key + R, type `shell:startup`, then select OK
+
+4. Copy all files in the Shortcuts_for_windows and paste them into the startup folder (by putting them in the startup folder, you don't need to run the files every time you start your system).
+
+5. Select them and run them.
 
 
 ### For Ubuntu
