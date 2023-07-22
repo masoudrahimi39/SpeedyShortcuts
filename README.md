@@ -38,8 +38,8 @@ The repository supports the following websites for instant searches; however, an
 
 1. Download AutoHotKey v1.1 from its [website](https://www.autohotkey.com/) and install it
 
-2. Clone this repo or download it manually
-   ```php
+2. Clone this repo or download it manually:
+```php
 git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
    ```
 3. Open the startup folder by pressing the Windows logo key + R, type `shell:startup`, then select OK
