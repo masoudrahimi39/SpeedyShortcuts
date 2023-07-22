@@ -1,6 +1,6 @@
 # Shortcuts for Selected Text
 
-Welcome to the SpeedyShortcuts repository!
+### Welcome to the SpeedyShortcuts repository!
 
 This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
 
@@ -112,7 +112,7 @@ Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press
 - Youtube search → `shift` + `alt` + `v`
 - Mnemonic Dictionary → `shift` + `alt` + `n`
 
-  NOTE: there is a bug with AutoHotkey that cannot copy the selected text to the clipboard correctly, so we need to press `ctrl` + `c` to do it manually.
+  NOTE: There is a bug with AutoHotkey that prevents the selected text from being copied to the clipboard correctly, so we need to press `ctrl` + `c` to do it manually.
 
 
 ### Ubuntu
