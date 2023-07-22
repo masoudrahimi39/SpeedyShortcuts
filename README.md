@@ -64,17 +64,21 @@ sudo apt-get install xclip
 6. Open *Settings* -> Click *Keyboard* in the sidebar to open the panel.
 7. In the Keyboard Shortcuts section, select *Customize Shortcuts*.
 8. You should repeat this step for all files in the *Shortcuts_for_ubuntu* directory. Here, we do it for *search-google.sh* file
+
    8.1. Click the *Add Shortcut* button if no custom shortcut is set yet. Otherwise, click the *+* button. The *Add Custom Shortcut* window
    will appear.
 
    8.2 Type a Name to identify the shortcut `search_google`. (for each file, you should change the name)
-  8.3 Type the below Command to run an application
+
+   8.3 Type the below Command to run an application
      ```php
     sh /usr/local/bin/Shortcuts_for_ubuntu/search_google.sh
     ```
-  8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down the desired shortcut key combination
+
+   8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down the desired shortcut key combination
    for example, for  google search → `shift` + `alt` + `g`
-  8.5 Click Add.
+
+   8.5 Click Add.
 
 
 ## License
