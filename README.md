@@ -43,7 +43,7 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
 
 1. Open terminal and go to tmp directory by below command:
   ```php
-cd /tmp ```
+cd /tmp
 
 2. Clone this repo files by:
   ```php git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git```
