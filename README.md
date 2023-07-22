@@ -42,20 +42,20 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
 ### For Ubuntu
 
 1. Open terminal and go to tmp directory by below command:
-  ```cd /tmp ```
+  ```php
+cd /tmp ```
+
 2. Clone this repo files by:
-  ```git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git```
+  ```php git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git```
+
 3. Copy files in the *shortcuts for ubuntu* folder to `/usr/local/bin` directory:
   ```cp -r /tmp/Shortcuts_for_ubuntu /usr/local/bin```
-4. Give read, write, and execution permission to files in `Shortcuts_for_ubuntu`:
+5. Give read, write, and execution permission to files in `Shortcuts_for_ubuntu`:
 ```php
-sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu
-Kafka::publishOn('topic')
+sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu```
 5. install `xclip` package by running the below command in the terminal:
-
 ```php
 sudo apt-get install xclip
-Kafka::publishOn('topic')
 
 6. Open *Settings* -> Click *Keyboard* in the sidebar to open the panel.
 7. In the Keyboard Shortcuts section, select *Customize Shortcuts*.
