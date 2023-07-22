@@ -31,6 +31,7 @@ The repository supports the following websites for instant searches; however, an
 
 - **Google**: Search the selected text on Google.
 - **Dictionary**: Look up the selected word in google translate, Longman, and mnemonic dictionaries.
+    - Google Translate is configured for English to Persian. Customize `search_google_translate.sh` and `search_google_translate.ahk` files to switch to any language. Feel free to ask for help.
 - **YouTube**: Find videos related to the selected text on YouTube.
 - **Google Scholar**: Search a name on Google Scholar profiles.
 
