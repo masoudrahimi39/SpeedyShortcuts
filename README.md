@@ -51,7 +51,8 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
   ```sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu```
 5. install `xclip` package by running the below command in the terminal:
 
-  ```sudo apt-get install xclip```
+      ```sudo apt-get install xclip```
+
 7. Open *Settings* -> Click *Keyboard* in the sidebar to open the panel.
 8. In the Keyboard Shortcuts section, select *Customize Shortcuts*.
 9. You should repeat this step for all files in the *Shortcuts_for_ubuntu* directory. Here, we do it for *search-google.sh* file
