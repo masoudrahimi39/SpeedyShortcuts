@@ -49,7 +49,8 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
   ```cp -r /tmp/Shortcuts_for_ubuntu /usr/local/bin```
 4. Give read, write, and execution permission to files in `Shortcuts_for_ubuntu`:
   ```sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu```
-6. install `xclip` package by running the below command in the terminal:
+5. install `xclip` package by running the below command in the terminal:
+
   ```sudo apt-get install xclip```
 7. Open *Settings* -> Click *Keyboard* in the sidebar to open the panel.
 8. In the Keyboard Shortcuts section, select *Customize Shortcuts*.
