@@ -1,4 +1,4 @@
-# Shortcuts for Selected Text
+# Shortcuts to  Search the Selected Text
 
 ### It helps you save time and reduce energy consumption
 
