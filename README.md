@@ -44,11 +44,11 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
 1. Open terminal and go to `/tmp` directory by the below command:
   ```php
 cd /tmp
-
+```
 2. Clone this repo files by:
   ```php
 git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
-
+```
 3. Copy files in the *shortcuts for ubuntu* folder to `/usr/local/bin` directory:
   ```php
 cp -r /tmp/Shortcuts_for_ubuntu /usr/local/bin
