@@ -1,6 +1,8 @@
 # Shortcuts for Selected Text
 
-Welcome to the SpeedyShortcuts repository! This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
+Welcome to the SpeedyShortcuts repository!
+
+This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
 
 
 ## Table of Contents
@@ -8,11 +10,11 @@ Welcome to the SpeedyShortcuts repository! This collection of keyboard shortcuts
 - [Demo](#demo)
 - [Supported Websites](#supported-websites)
 - [Setting Up](#setting-up)
-  - [For Windows](#for-windows)
-  - [For Ubuntu](#for-ubuntu)
+  - [For Windows](#Windows)
+  - [For Ubuntu](#Ubuntu)
 - [Usage](#usage)
-  -  [Windows](#In-windows)
-  -  [Ubuntu](#In-ubuntu)
+  -  [Windows](#Windows)
+  -  [Ubuntu](#Ubuntu)
 - [License](#license)
 
 
@@ -34,7 +36,7 @@ The repository supports the following websites for instant searches; however, an
 
 ## Setting Up
 
-### For Windows
+### Windows
 
 1. Download AutoHotKey v1.1 from its [website](https://www.autohotkey.com/) and install it
 
@@ -49,7 +51,7 @@ git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
 5. Select them and run them.
 
 
-### For Ubuntu
+### Ubuntu
 
 1. Open terminal and go to `/tmp` directory by the below command:
   ```php
@@ -90,9 +92,13 @@ sudo apt-get install xclip
 
    8.5 Click Add.
 
+
 ## Usage
 
-### In Windows
+These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_ubuntu and Shortcuts_for_windows.
+
+
+### Windows
 
 Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut you want like below:
 - Google search → `shift` + `alt` + `g`
@@ -104,7 +110,8 @@ Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press
 
   NOTE: there is a bug with AutoHotkey that cannot copy the selected text to the clipboard correctly, so we need to press `ctrl` + `c` to do it manually.
 
-### In Ubuntu
+
+### Ubuntu
 
 Select any text, then press any shortcut you want like below:
 - Google search → `shift` + `alt` + `g`
@@ -113,6 +120,7 @@ Select any text, then press any shortcut you want like below:
 - Longman Dictionary → `shift` + `alt` + `l`
 - Youtube search → `shift` + `alt` + `v`
 - Mnemonic Dictionary → `shift` + `alt` + `n`
+
 
 ## License
 
