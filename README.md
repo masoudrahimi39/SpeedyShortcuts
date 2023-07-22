@@ -118,13 +118,14 @@ Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press
 ### Ubuntu
 
 Select any text, then press any shortcut you want like below:
-- Google search → `shift` + `alt` + `g`
-- Google Translate → `shift` + `alt` + `c`
-- Youtube search → `shift` + `alt` + `v`
-- Longman Dictionary → `shift` + `alt` + `l`
-- Youtube search → `shift` + `alt` + `v`
-- Mnemonic Dictionary → `shift` + `alt` + `n`
-
+<pre>
+- Google search         → `shift` + `alt` + `g`
+- Google Translate      → `shift` + `alt` + `c`
+- Youtube search        → `shift` + `alt` + `v`
+- Longman Dictionary    → `shift` + `alt` + `l`
+- Youtube search        → `shift` + `alt` + `v`
+- Mnemonic Dictionary   → `shift` + `alt` + `n`
+</pre>
 
 ## License
 
