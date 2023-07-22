@@ -10,6 +10,9 @@ Welcome to the SpeedyShortcuts repository! This collection of keyboard shortcuts
 - [Setting Up](#setting-up)
   - [For Windows](#for-windows)
   - [For Ubuntu](#for-ubuntu)
+- [Usage](#usage)
+  -  [Windows](#In-windows)
+  -  [Ubuntu](#In-ubuntu)
 - [License](#license)
 
 
@@ -33,11 +36,15 @@ The repository supports the following websites for instant searches; however, an
 
 ### For Windows
 
-To set up the Search Shortcuts for Text Selection on your Windows system, follow these steps:
+1. Download AutoHotKey v1.1 from its [website](https://www.autohotkey.com/) and install it
+2. Clone this repo or download it manually
+   ```php
+git clone https://github.com/masoudrahimi39/SpeedyShortcuts.git
+   ```
+4. Open the startup folder by pressing the Windows logo key + R, type `shell:startup`, then select OK
+5. Copy all files in the Shortcuts_for_windows and paste them into the startup folder (by putting them in the startup folder, you don't need to run the files every time you start your system).
+6. Select them and run them.
 
-1. Download the latest release of the repository as a ZIP file.
-2. Extract the contents to a folder on your system.
-3. Double-click on the setup file and follow the on-screen instructions to install the shortcuts.
 
 ### For Ubuntu
 
@@ -80,6 +87,29 @@ sudo apt-get install xclip
 
    8.5 Click Add.
 
+## Usage
+
+### In Windows
+
+Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut you want like below:
+- Google search → `shift` + `alt` + `g`
+- Google Translate → `shift` + `alt` + `c`
+- Youtube search → `shift` + `alt` + `v`
+- Longman Dictionary → `shift` + `alt` + `l`
+- Youtube search → `shift` + `alt` + `v`
+- Mnemonic Dictionary → `shift` + `alt` + `n`
+
+  NOTE: there is a bug with AutoHotkey that cannot copy the selected text to the clipboard correctly, so we need to press `ctrl` + `c` to do it manually.
+
+### In Ubuntu
+
+Select any text, then press any shortcut you want like below:
+- Google search → `shift` + `alt` + `g`
+- Google Translate → `shift` + `alt` + `c`
+- Youtube search → `shift` + `alt` + `v`
+- Longman Dictionary → `shift` + `alt` + `l`
+- Youtube search → `shift` + `alt` + `v`
+- Mnemonic Dictionary → `shift` + `alt` + `n`
 
 ## License
 
