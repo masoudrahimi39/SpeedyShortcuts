@@ -1,3 +1,5 @@
+
+```php
 import '@github/clipboard-copy-element'
 # Shortcuts for Selected Text
 
@@ -51,7 +53,7 @@ To set up the Search Shortcuts for Text Selection on your Windows system, follow
 4. Give read, write, and execution permission to files in `Shortcuts_for_ubuntu`:
   ```sudo chmod -R 764 /usr/local/bin/Shortcuts_for_ubuntu```
 5. install `xclip` package by running the below command in the terminal:
-```php
+
 sudo apt-get install xclip;
 
 Kafka::publishOn('topic')
