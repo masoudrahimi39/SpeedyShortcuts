@@ -20,7 +20,7 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
-[//]: <>(TODO: add gif and video;     > [**View Full Demo Video**](demo_video.mp4) )
+[comment]: <> (TODO: add gif and video;     > [**View Full Demo Video**](demo_video.mp4) )
 
 
 
@@ -86,7 +86,7 @@ sudo apt-get install xclip
    will appear like the below image
 
 
-    [//]: # (TODO: add image of ubuntu like what is available in notion)
+    [comment]: # (TODO: add image of ubuntu like what is available in notion)
 
    8.2 Type a Name to identify the shortcut like `search_google`. (you should change the name for each files)
 
