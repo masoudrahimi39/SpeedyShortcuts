@@ -20,18 +20,12 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
-[comment]: <> (This is a comment, it will not be included)
+[//]: <>(TODO: add gif and video;     > [**View Full Demo Video**](demo_video.mp4) )
 
 
-```{r, results='hide'}
-print("You will not see the text output.")
-```
 
-[]: # (This is a comment)
- <! -- TODO: add gif and video -->
 ![Shortcuts Demo](demo.gif)
 
-<!--- > [**View Full Demo Video**](demo_video.mp4) --->
 
 
 ## Supported Websites
@@ -91,8 +85,8 @@ sudo apt-get install xclip
    8.1. Click the *Add Shortcut* button if no custom shortcut is set yet. Otherwise, click the *+* button. The *Add Custom Shortcut* window
    will appear like the below image
 
-  <! --- TODO: add image of ubuntu like what is available in notion --->
 
+    [//]: # (TODO: add image of ubuntu like what is available in notion)
 
    8.2 Type a Name to identify the shortcut like `search_google`. (you should change the name for each files)
 
