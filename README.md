@@ -20,6 +20,7 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
+[]: # (This is a comment)
  <! -- TODO: add gif and video -->
 ![Shortcuts Demo](demo.gif)
 
