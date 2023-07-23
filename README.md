@@ -20,6 +20,10 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
+```{r, results='hide'}
+print("You will not see the text output.")
+```
+
 []: # (This is a comment)
  <! -- TODO: add gif and video -->
 ![Shortcuts Demo](demo.gif)
