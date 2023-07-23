@@ -21,8 +21,8 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 ## Demo
 
 
-[comment]: # (TODO: add gif and video )
-> [**View Full Demo Video**](demo_video.mp4)
+[comment]: # (TODO: add gif and video > [**View Full Demo Video**](demo_video.mp4) )
+
 
 
 
