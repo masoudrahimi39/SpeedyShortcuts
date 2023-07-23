@@ -1,6 +1,6 @@
 # Shortcuts to  Search the Selected Text
 
-### It helps you save time and reduce energy consumption
+### Save TIME
 
 This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
 
@@ -20,7 +20,7 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
- <! --- TODO: add gif and video --->
+ <! -- TODO: add gif and video -->
 ![Shortcuts Demo](demo.gif)
 
 <!--- > [**View Full Demo Video**](demo_video.mp4) --->
