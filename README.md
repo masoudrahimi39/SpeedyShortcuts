@@ -19,10 +19,11 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 
 ## Demo
-will be added
+
+ <! --- TODO: add gif and video --->
 ![Shortcuts Demo](demo.gif)
 
- > [**View Full Demo Video**](demo_video.mp4)
+<!--- > [**View Full Demo Video**](demo_video.mp4) --->
 
 
 ## Supported Websites
@@ -82,7 +83,7 @@ sudo apt-get install xclip
    8.1. Click the *Add Shortcut* button if no custom shortcut is set yet. Otherwise, click the *+* button. The *Add Custom Shortcut* window
    will appear like the below image
 
-   ![Screenshot from 2022-07-24 19-14-28](https://github.com/masoudrahimi39/SpeedyShortcuts/assets/65596290/cf8a8e84-818a-424e-943c-ca3d5931ed3c)
+  <! --- TODO: add image of ubuntu like what is available in notion --->
 
 
    8.2 Type a Name to identify the shortcut like `search_google`. (you should change the name for each files)
