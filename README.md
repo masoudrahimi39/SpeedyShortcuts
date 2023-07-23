@@ -20,6 +20,9 @@ This collection of keyboard shortcuts enables you to quickly search the selected
 
 ## Demo
 
+[comment]: <> (This is a comment, it will not be included)
+
+
 ```{r, results='hide'}
 print("You will not see the text output.")
 ```
