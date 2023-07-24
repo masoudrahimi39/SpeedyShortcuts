@@ -92,22 +92,21 @@ sudo apt-get install xclip
 
     [comment]: # (TODO: add image of ubuntu like what is available in notion)
 
-   8.2 Type a Name to identify the shortcut like `search_google`. (you should change the name for each files)
+   8.2 Type a Name to identify the shortcut like `search_google`.
 
-   8.3 Type the below Command to run an application (you should replace `search_google.sh` with the other file)
+   8.3 Type the below Command to run an application
      ```php
     sh /usr/local/bin/Shortcuts_for_ubuntu/search_google.sh
     ```
 
-   8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down the desired shortcut key combination
-   for example, for  google search → `shift` + `alt` + `g`
+   8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down `shift` + `alt` + `g`. 
 
    8.5 Click Add.
 
 
 ## Usage
 
-These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_ubuntu and Shortcuts_for_windows.
+These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_ubuntu and Shortcuts_for_windows directory.
 
 
 ### Windows
