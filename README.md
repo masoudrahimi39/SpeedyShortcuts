@@ -1,6 +1,6 @@
 # Shortcuts to  Search the Selected Text
 
-### Save TIME
+### Save TIME!
 
 This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
 
