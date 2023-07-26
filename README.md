@@ -99,19 +99,21 @@ sudo apt-get install xclip
     sh /usr/local/bin/Shortcuts_for_ubuntu/search_google.sh
     ```
 
-   8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down `shift` + `alt` + `g`. 
+   8.4 Click the Add Shortcut… button. In the Add Custom Shortcut window, hold down any shortcut you want like `shift` + `alt` + `g`. 
 
    8.5 Click Add.
 
+    ! These shortcuts can be chosen based on your convenience
 
 ## Usage
 
-These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_ubuntu and Shortcuts_for_windows directory.
+
 
 
 ### Windows
+These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_windows directory.
 <pre>
-Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut you want like below:
+Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut from below:
 - Google search         → `shift` + `alt` + `g`
 - Google Translate      → `shift` + `alt` + `c`
 - Youtube search        → `shift` + `alt` + `v`
