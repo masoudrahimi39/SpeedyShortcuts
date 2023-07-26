@@ -113,7 +113,7 @@ sudo apt-get install xclip
 ### Windows
 These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_windows directory.
 <pre>
-Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut from below:
+Select any text, and press ```ctrl``` + `c` to  copy it to the clipboard, then press any shortcut from below:
 - Google search         → `shift` + `alt` + `g`
 - Google Translate      → `shift` + `alt` + `c`
 - Youtube search        → `shift` + `alt` + `v`
