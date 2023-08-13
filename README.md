@@ -4,6 +4,7 @@
 
 This collection of keyboard shortcuts enables you to quickly search the selected text on any website (like Google, YouTube, dictionaries, Google Scholar, and more) to enhance productivity. These shortcuts work on both Ubuntu and Windows operating systems.
 
+If you find these search shortcuts helpful, consider giving this repository a ⭐ to show your support and help others discover it.
 
 ## Table of Contents
 
@@ -141,8 +142,6 @@ Select any text, then press any shortcut you want like below:
 This repository is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and share the content as long as you provide appropriate attribution.
 
 ---
-
-If you find these search shortcuts helpful, consider giving this repository a ⭐ to show your support and help others discover it.
 
 Happy searching!
 
