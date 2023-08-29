@@ -115,12 +115,15 @@ sudo apt-get install xclip
 These shortcuts can be chosen based on your convenience, but first, you must change them in the files in the Shortcuts_for_windows directory.
 <pre>
 Select any text, and press `ctrl` + `c` to  copy it to the clipboard, then press any shortcut from below:
-- Google search         → `shift` + `alt` + `g`
-- Google Translate      → `shift` + `alt` + `c`
-- Youtube search        → `shift` + `alt` + `v`
-- Longman Dictionary    → `shift` + `alt` + `l`
-- Youtube search        → `shift` + `alt` + `v`
-- Mnemonic Dictionary   → `shift` + `alt` + `n`
+- Google search               → `shift` + `alt` + `g`
+- Google Translate            → `shift` + `alt` + `c`
+- Google Scholar (people)     → `shift` + `alt` + `p`
+- Google Scholar (articles)   → `shift` + `alt` + `a`
+- Youtube search              → `shift` + `alt` + `v`
+- Longman Dictionary          → `shift` + `alt` + `l`
+- Youtube search              → `shift` + `alt` + `v`
+- Mnemonic Dictionary         → `shift` + `alt` + `n`
+- 
 </pre>
   NOTE: There is a bug with AutoHotkey that prevents the selected text from being copied to the clipboard correctly, so we need to press `ctrl` + `c` to do it manually.
 
